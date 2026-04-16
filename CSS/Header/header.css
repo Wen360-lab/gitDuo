@@ -6,11 +6,12 @@ header {
     width: 100%;
     height: auto;
     background-color: #ECF7FB;
+    padding: 50px 0;
 }
 
 .titre {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 80px;
-    color: rgb(242, 183, 55);
+    font-size: 100px;
+    color: #f2b737;
     text-shadow: 0.2px 0.1px 0.5px black;
 }
