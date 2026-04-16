@@ -1,0 +1,16 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    width: 100%;
+    height: auto;
+    background-color: #ECF7FB;
+}
+
+.titre {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 80px;
+    color: rgb(242, 183, 55);
+    text-shadow: 0.2px 0.1px 0.5px black;
+}
